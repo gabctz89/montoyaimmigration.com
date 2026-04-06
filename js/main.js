@@ -1,5 +1,5 @@
 /* ============================================================
-   main.js — Stefany Montoya | Immigration Attorney
+   main.js — Stephanie Montoya | Immigration Attorney
    ============================================================ */
 
 /* ── FADE-IN ON SCROLL ── */
@@ -21,8 +21,8 @@ const placeholders = {
 };
 
 const pageTitles = {
-  en: 'Stefany Montoya | Immigration Attorney',
-  es: 'Stefany Montoya | Abogada de Inmigración'
+  en: 'Stephanie Montoya | Immigration Attorney',
+  es: 'Stephanie Montoya | Abogada de Inmigración'
 };
 
 function setLang(lang) {
